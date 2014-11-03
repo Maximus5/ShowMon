@@ -1,4 +1,5 @@
-﻿This small tool helps with testing multimonitor-aware applicataions
+﻿## About
+This small tool helps with testing multimonitor-aware applicataions
 in the ‘single-monitor’ environment.
 
 Of course, ‘monitor’ must be installed in your system, but if this
@@ -10,3 +11,6 @@ continuously shows the contents of secondary monitor scaled-down.
 
 But when your mouse cursor is on secondary monitor you will see small
 part of it with 100% zoom.
+
+## Screenshot
+![ShowMon](https://github.com/Maximus5/ShowMon/wiki/Screenshot.png)
